@@ -1,8 +1,8 @@
 # AllynWaller.github.io
 
-Implemented: Files made, initial skeletons written
-To-Do: CSS stylings, more detailed structure (esp. resume), content
+Implemented: Files made, resume done
+To-Do: Biography content, spruce up index
 
 Collaboration: None
 
-Hours spent: 1.5 so far
+Hours spent: 2.5 so far
