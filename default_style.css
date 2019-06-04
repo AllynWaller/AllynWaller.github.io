@@ -1,4 +1,5 @@
-h1 {font-size:16pt;}
+h1 {font-size:16pt; text-align: center;}
 h2 {font-size: 14pt; font-weight: lighter;}
-li {list-style-type: disc;}
+li {list-style-type: disc; }
 .b {font-weight: bold;}
+.c {text-align: center;}
