@@ -1,9 +1,9 @@
 # AllynWaller.github.io
 
-Implemented: Files made, resume & index done
+Implemented: Resume, bio, & index done
 
-To-Do: Biography content
+To-Do: Validate HTML5 and CSS
 
 Collaboration: None
 
-Hours spent: 2.5 so far
+Hours spent: 3.25

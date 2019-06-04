@@ -1,5 +1,8 @@
 h1 {font-size:16pt; text-align: center;}
 h2 {font-size: 14pt; font-weight: lighter;}
+h3 {font-size: 14pt}
 li {list-style-type: disc; }
 .b {font-weight: bold;}
 .c {text-align: center;}
+.citationneeded {font-variant-position: super; font-style: italic; font-weight: bold; text-decoration: none; font-size: 10pt}
+.boom {font-size: 48pt; font-weight: bolder; font-style: oblique; text-decoration: underline; color: red}
