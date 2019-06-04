@@ -1,6 +1,7 @@
 # AllynWaller.github.io
 
 Implemented: Files made, resume done
+
 To-Do: Biography content, spruce up index
 
 Collaboration: None
