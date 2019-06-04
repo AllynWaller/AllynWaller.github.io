@@ -1,8 +1,8 @@
 # AllynWaller.github.io
 
-Implemented: Resume, bio, & index done
+Implemented: Resume, bio, & index done & validated
 
-To-Do: Validate HTML5 and CSS
+To-Do: None
 
 Collaboration: None
 
